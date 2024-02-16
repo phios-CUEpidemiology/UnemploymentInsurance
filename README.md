@@ -1,0 +1,1 @@
+This repository contains the code and files to calculate the weekly benefit amount (WBA) replacement rate--the unemployment insurance indicator--used in the paper "More robust unemployment benefits associated with reduced drug overdose mortality in the United States before and during the COVID-19 pandemic" by Martins SS, et. al.
