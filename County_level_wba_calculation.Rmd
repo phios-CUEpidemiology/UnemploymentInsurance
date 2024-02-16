@@ -39,6 +39,8 @@ max_wba <- read_excel(here("MaxWBA_2014_2021.xlsx")) |>
                values_to = "MAX_WBA")
 ```
 
+# Load the county median household income
+
 ```{r county hh income,} 
 cty_income <- read_csv(here("median_household_income_county.csv"))
 
