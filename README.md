@@ -5,7 +5,7 @@ This indicator was used in the paper "More robust unemployment benefits associat
 The file "County_level_wba_calculation.RMD" is an RMarkdown file that contains annotated code that shows the calculations done to estimate the WBA replacement rate at the county level. The following files are used in this code to reproduce the WBA replacement rate calculation:
 
 - States.xlsx, this is an excel file containing the names and abbreviations of all US states. 
-- MaxWBA_2014_2021.xlsx, this file contains the calculated 
+- MaxWBA_2014_2021.xlsx, this file contains the calculated the WBA calculated by state, year, and quarter
 - median_household_income_county.csv, are the median household income by county
 - COVID_UI.xlsx, data on when the 600 and 300 dollar COVID supplementary insurance was active in each state. 
 
