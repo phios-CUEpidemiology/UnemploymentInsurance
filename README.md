@@ -11,5 +11,5 @@ The file "County_level_wba_calculation.RMD" is an RMarkdown file that contains a
 
 Additionally, we included the following files:
 
-- state_UI_provisions.xlsx contains data on states' provisions, statuses, policies, and rules used to calculate the maximum allowed WBA.
+- state_UI_provisions.xlsx contains data on states' provisions, statuses, policies, and rules used to calculate the states' maximum allowed WBA.
 - county_wbarr.xlsx shows the wba replacement rate per quarter at the county level.
