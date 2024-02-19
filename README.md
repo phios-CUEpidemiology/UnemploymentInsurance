@@ -1,6 +1,6 @@
 This repository contains the code and files to calculate the weekly benefit amount (WBA) replacement rate (the unemployment insurance indicator). 
 
-This indicator was used in the paper "More robust unemployment benefits associated with reduced drug overdose mortality in the United States before and during the COVID-19 pandemic" by Martins SS, et. al.
+This indicator was used in the paper "Higher unemployment benefits are associated with reduced drug overdose mortality in the United States before and during the COVID-19 pandemic" by Martins SS, et. al.
 
 The file "County_level_wba_calculation.RMD" is an RMarkdown file that contains annotated code that shows the calculations done to estimate the WBA replacement rate at the county level. The following files are used in this code to reproduce the WBA replacement rate calculation:
 
