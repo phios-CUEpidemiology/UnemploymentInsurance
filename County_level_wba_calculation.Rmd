@@ -129,6 +129,8 @@ ui1 <- left_join(df_template, max_wba, by = c("ST", "QUARTER", "YEAR")) |>
 
 # Create variables for calculating weekly benefits allowance (WBA)
 
+UI benefit formulas came from: Department of Labor’s Significant Provision of State Unemployment Insurance Laws available publicly at: https://oui.doleta.gov/unemploy/statelaws.asp 
+
 Formulas do not change over time for almost all states, so we are manually building in the formulas to the code below. Per Dr. Kate Sacks' work, we are assuming constant income for single individuals with no dependents, full-time work week of 40 hours, and 13 weeks in each quarter. Rounding rules specified in state provisions are incorporated into the formulas.
 
 NOTES: 
